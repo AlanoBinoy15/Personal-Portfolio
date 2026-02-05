@@ -10,7 +10,7 @@ export default function Navbar() {
 
   return (
     <nav className="navbar">
-      <div className="logo">Alano Binoy </div>
+      <div className="logo">Alano Binoy  Gesix GeoAI intern </div>
       <ul className="nav-links">
         <li><a onClick={() => scrollToSection('work')}>Work</a></li>
         <li><a onClick={() => scrollToSection('skills')}>Skills</a></li>
